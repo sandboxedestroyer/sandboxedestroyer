@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandboxedestroyer
 - 👀 I’m interested in IT 
-- 🌱 I’m currently learning Go, PHP and JS  
-- 💞️ I’m looking to collaborate on company's and Go proyects
+- 🌱 I’m currently learning Go, PHP, JS, python, JAVA, Rust  
+- 💞️ I’m looking to collaborate on company's 
 - 📫 How to reach me here
 - 🌌 pentest4.fun
 
